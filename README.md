@@ -38,15 +38,16 @@
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
-## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+## input:
+![empd6 1](https://github.com/user-attachments/assets/304369e7-c978-4c15-a99b-cca8a532609e)
+![empd6 2](https://github.com/user-attachments/assets/affca976-62a3-4449-85f1-1d9e62921e22)
+![empd6 3](https://github.com/user-attachments/assets/4626ac5c-ea8a-4bbd-9a34-582700b7acbc)
 
 ## Output:
+![virtual lab exp](https://github.com/user-attachments/assets/b9ff5c26-c1ab-442d-bce0-50e8490e61ba)
 
-### Name:
-### Register Number:
+### Name:c r sudeep raj
+### Register Number:24013567
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
