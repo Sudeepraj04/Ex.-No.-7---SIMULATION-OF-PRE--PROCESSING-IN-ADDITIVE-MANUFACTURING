@@ -37,14 +37,16 @@
 ### ●	When the first process is selected then it will open in the blank space in the left side of the screen.
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
+## input :
+![empd exp 6 1](https://github.com/user-attachments/assets/e6ae8c28-dd52-4309-a1ef-049e10b73823)
+![empd exp 6 2](https://github.com/user-attachments/assets/6d020f21-0d9b-4157-b222-232f29986183)
+![empd exp 6 3](https://github.com/user-attachments/assets/8992985e-495e-4762-b0d7-2ef3cee8b992)
 
-## input:
-![empd6 1](https://github.com/user-attachments/assets/304369e7-c978-4c15-a99b-cca8a532609e)
-![empd6 2](https://github.com/user-attachments/assets/affca976-62a3-4449-85f1-1d9e62921e22)
-![empd6 3](https://github.com/user-attachments/assets/4626ac5c-ea8a-4bbd-9a34-582700b7acbc)
-
-## Output:
+## output:
 ![virtual lab exp](https://github.com/user-attachments/assets/b9ff5c26-c1ab-442d-bce0-50e8490e61ba)
+![empd6 1](https://github.com/user-attachments/assets/5a6f66d0-2638-4ae8-a4b2-794e9f21193d)
+![empd6 2](https://github.com/user-attachments/assets/07b1e07d-8f8e-4e0d-8e72-820870e9667a)
+![empd6 3](https://github.com/user-attachments/assets/a959a6a3-c0be-4337-9604-04c8dfc06715)
 
 ### Name:c r sudeep raj
 ### Register Number:24013567
