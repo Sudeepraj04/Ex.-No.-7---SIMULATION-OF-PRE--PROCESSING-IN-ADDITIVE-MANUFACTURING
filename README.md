@@ -37,10 +37,6 @@
 ### ●	When the first process is selected then it will open in the blank space in the left side of the screen.
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
-## input :
-![empd exp 6 1](https://github.com/user-attachments/assets/e6ae8c28-dd52-4309-a1ef-049e10b73823)
-![empd exp 6 2](https://github.com/user-attachments/assets/6d020f21-0d9b-4157-b222-232f29986183)
-![empd exp 6 3](https://github.com/user-attachments/assets/8992985e-495e-4762-b0d7-2ef3cee8b992)
 
 ## output:
 ![virtual lab exp](https://github.com/user-attachments/assets/b9ff5c26-c1ab-442d-bce0-50e8490e61ba)
